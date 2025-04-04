@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"outline-style"
+			],
+			[
+				"ou",
+				"outline-color"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ye",
+				"yellowgreen"
+			],
+			[
+				"cou",
+				"column-rule"
+			],
+			[
+				"col",
+				"column-rule-color"
+			],
+			[
+				"colu",
+				"column-count"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"gre",
+				"dimgrey"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ma",
+				"maroon"
+			],
+			[
+				"gr",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"y",
+				"revert-layer"
+			],
+			[
+				"bac",
+				"backdrop-filter"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"e",
+				"external"
+			],
+			[
+				"gray",
+				"slategray"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text-de",
+				"text-decoration-color"
+			],
+			[
+				"text",
+				"text-decoration-line"
+			],
+			[
+				"red",
+				"orangered"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"m",
+				"maroon"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"rt",
+				"rt"
+			],
+			[
+				"rb",
+				"rb"
+			],
+			[
+				"su",
+				"sup"
+			],
+			[
+				"h",
+				"hgroup"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"bg",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/nithi.html/div explain.html",
+		"/C/Users/Admin/Desktop/nithi.html/coloum.html",
+		"/C/Users/Admin/Desktop/nithi.html/box model.html",
+		"/C/Users/Admin/Desktop/nithi.html/block&inline.html",
+		"/C/Users/Admin/Desktop/nithi.html/comb general.html",
+		"/C/Users/Admin/Desktop/nithi.html/comb adjacent.html",
+		"/C/Users/Admin/Desktop/nithi.html/comb descendent.html",
+		"/C/Users/Admin/Desktop/nithi.html/combinator child.html",
+		"/C/Users/Admin/Desktop/nithi.html/ts fist of last of type.html",
+		"/C/Users/Admin/Desktop/nithi.html/ts first last child.html",
+		"/C/Users/Admin/Desktop/nithi.html/tree structure root.html",
+		"/C/Users/Admin/Desktop/nithi.html/user action focus within.html",
+		"/C/Users/Admin/Desktop/nithi.html/ action focuse visible.html",
+		"/C/Users/Admin/Desktop/nithi.html/user action focus.html",
+		"/C/Users/Admin/Desktop/nithi.html/user action active.html",
+		"/C/Users/Admin/Desktop/nithi.html/user action hover.html",
+		"/C/Users/Admin/Desktop/nithi.html/pseudo where.html",
+		"/C/Users/Admin/Desktop/nithi.html/pseudo has.html",
+		"/C/Users/Admin/Desktop/nithi.html/pseudo not.html",
+		"/C/Users/Admin/Desktop/nithi.html/attribute7.html",
+		"/C/Users/Admin/Desktop/nithi.html/4.html",
+		"/C/Users/Admin/Desktop/nithi.html/ibute6.html",
+		"/C/Users/Admin/Desktop/nithi.html/5.html",
+		"/C/Users/Admin/Desktop/nithi.html/attribute3.html",
+		"/C/Users/Admin/Desktop/nithi.html/attribute1.html",
+		"/C/Users/Admin/Desktop/nithi.html/pseudo element.html",
+		"/C/Users/Admin/Desktop/nithi.html/element.css",
+		"/C/Users/Admin/Desktop/nithi.html/selector.css",
+		"/C/Users/Admin/Desktop/nithi.html/selector.html",
+		"/C/Users/Admin/Desktop/nithi.html/div.html",
+		"/C/Users/Admin/Desktop/nithi.html/external.css",
+		"/C/Users/Admin/Desktop/nithi.html/external.html",
+		"/C/Users/Admin/Desktop/nithi.html/internal css.html",
+		"/C/Users/Admin/Desktop/nithi.html/inline css.html",
+		"/C/Users/Admin/Desktop/nithi.html/radio&audio.html",
+		"/C/Users/Admin/Desktop/nithi.html/placeholred&require.html",
+		"/C/Users/Admin/Desktop/nithi.html/form.html",
+		"/C/Users/Admin/Desktop/nithi.html/table.html",
+		"/C/Users/Admin/Desktop/nithi.html/list.html",
+		"/C/Users/Admin/Desktop/nithi.html/link tag.html",
+		"/C/Users/Admin/Desktop/nithi.html/image.html",
+		"/C/Users/Admin/Desktop/nithi.html/audio&video.html",
+		"/C/Users/Admin/Desktop/nithi.html/contact  information.html",
+		"/C/Users/Admin/Desktop/nithi.html/modification.html",
+		"/C/Users/Admin/Desktop/nithi.html/movement.html",
+		"/C/Users/Admin/Desktop/nithi.html/ins&del.html",
+		"/C/Users/Admin/Desktop/nithi.html/long form.html",
+		"/C/Users/Admin/Desktop/nithi.html/font size.html",
+		"/C/Users/Admin/Desktop/nithi.html/expresion.html",
+		"/C/Users/Admin/Desktop/nithi.html/q&blackquotes.html",
+		"/C/Users/Admin/Desktop/nithi.html/hgroup.html",
+		"/C/Users/Admin/Desktop/nithi.html/para.html",
+		"/C/Users/Admin/Desktop/nithi.html/heading.html",
+		"/C/Users/Admin/Desktop/nithi proect html&css/user",
+		"/C/Users/Admin/Desktop/nithi proect html&css/image",
+		"/C/Users/Admin/Desktop/nithi.html/class is.html",
+		"/C/Users/Admin/Desktop/nithi.html/,6.html",
+		"/C/Users/Admin/Desktop/nithi.html/attribute4,5,6.css",
+		"/C/Users/Admin/Desktop/nithi.html/text formating.html",
+		"/C/Users/Admin/Desktop/Project/index.html",
+		"/C/Users/Admin/Desktop/Project/index.css",
+		"/C/Users/Admin/Desktop/Project/index.js",
+		"/C/Users/Admin/Desktop/Styles.css",
+		"/C/Users/Admin/Desktop/new.html",
+		"/C/Users/Admin/Desktop/HTML/index.html",
+		"/C/Users/Admin/Desktop/Pro.html",
+		"/C/Users/Admin/Desktop/CSS/menu.html",
+		"/C/Users/Admin/Desktop/csk/CSK.html",
+		"/C/Users/Admin/Desktop/CSS/df.html",
+		"/C/Users/Admin/Desktop/CSS/df",
+		"/C/Users/Admin/Desktop/style.css",
+		"/C/Users/Admin/Desktop/csk/Register Form.html",
+		"/C/Users/Admin/Desktop/CSS/style.css",
+		"/C/Users/Admin/Desktop/CSS/Foods.html",
+		"/C/Users/Admin/Desktop/CSS/contact.html",
+		"/C/Users/Admin/Desktop/CSS/order.html",
+		"/C/Users/Admin/Desktop/CSS/index.html",
+		"/C/Users/Admin/Desktop/csk.html",
+		"/C/Users/Admin/Desktop/Register Form.html",
+		"/C/Users/Admin/Desktop/EGCSS.html",
+		"/C/Users/Admin/Documents/jai.java",
+		"/C/Users/Admin/Desktop/jai.java",
+		"/C/Users/Admin/Desktop/pro.html",
+		"/C/Program Files/Google/Chrome/Application/chrome_proxy.exe",
+		"/C/Users/Admin/Documents/JAI.html",
+		"/C/Users/Admin/Documents/HTML.txt",
+		"/C/Users/Admin/Desktop/index.css",
+		"/C/Users/Admin/Documents/BTS",
+		"/C/Users/Admin/Desktop/sample.html",
+		"/C/Users/Admin/Desktop/register.html",
+		"/C/Users/Admin/Desktop/index1.html",
+		"/C/Users/Admin/Desktop/index.html",
+		"/C/Users/Admin/Desktop/tab.html",
+		"/C/Users/Admin/Desktop/hello.html"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
